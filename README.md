@@ -1,1 +1,2 @@
 # lab2-arqui-compu
+En esta práctica se debe diseñar, códificar, simular y verificar un programa escrito en lenguaje ensamblador MIPS32, que esté en capacidad de disponer en orden alfabético un listado finito de frases.
